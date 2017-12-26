@@ -1,0 +1,200 @@
+{
+  "1050007": {
+    "path": "http://10.8.8.8/cosplay/closet/1050007",
+    "thumbnail" : "dacoration_thumbnail.png",
+    "resourse": [
+      "decoration_cloth_tex.png",
+      "decoration_cloth_tex.json",
+      "decoration_cloth_ske.json"
+    ]
+  },
+  "1050006": {
+    "path": "http://10.8.8.8/cosplay/closet/1050006",
+    "thumbnail" : "dacoration_thumbnail.png",
+    "resourse": [
+      "decoration_cloth_tex.png",
+      "decoration_cloth_tex.json",
+      "decoration_cloth_ske.json"
+    ]
+  },
+  "1040030": {
+    "path": "http://10.8.8.8/cosplay/closet/1040030",
+    "thumbnail" : "shoe_cloth_thumbnail.png",
+    "resourse": [
+      "shoe_cloth_tex.png",
+      "shoe_cloth_tex.json",
+      "shoe_cloth_ske.json",
+      "shoe_cloth_1_tex.png",
+      "shoe_cloth_1_tex.json",
+      "shoe_cloth_1_ske.json"
+    ]
+  },
+  "1040028": {
+    "path": "http://10.8.8.8/cosplay/closet/1040028",
+    "thumbnail" : "shoe_cloth_thumbnail.png",
+    "resourse": [
+      "shoe_cloth_tex.png",
+      "shoe_cloth_tex.json",
+      "shoe_cloth_ske.json",
+      "shoe_cloth_1_tex.png",
+      "shoe_cloth_1_tex.json",
+      "shoe_cloth_1_ske.json"
+    ]
+  },
+  "1040027": {
+    "path": "http://10.8.8.8/cosplay/closet/1040027",
+    "thumbnail" : "shoe_cloth_thumbnail.png",
+    "resourse": [
+      "shoe_cloth_tex.png",
+      "shoe_cloth_tex.json",
+      "shoe_cloth_ske.json",
+      "shoe_cloth_1_tex.png",
+      "shoe_cloth_1_tex.json",
+      "shoe_cloth_1_ske.json"
+    ]
+  },
+  "1030036": {
+    "path": "http://10.8.8.8/cosplay/closet/1030036",
+    "thumbnail" : "down_cloth_thumbnail.png",
+    "resourse": [
+      "down_cloth_tex.png",
+      "down_cloth_tex.json",
+      "down_cloth_ske.json",
+      "down_cloth_1_tex.png",
+      "down_cloth_1_tex.json",
+      "down_cloth_1_ske.json"
+    ]
+  },
+  "1030035": {
+    "path": "http://10.8.8.8/cosplay/closet/1030035",
+    "thumbnail" : "down_cloth_thumbnail.png",
+    "resourse": [
+      "down_cloth_tex.png",
+      "down_cloth_tex.json",
+      "down_cloth_ske.json",
+      "down_cloth_1_tex.png",
+      "down_cloth_1_tex.json",
+      "down_cloth_1_ske.json"
+    ]
+  },
+  "1030034": {
+    "path": "http://10.8.8.8/cosplay/closet/1030034",
+    "thumbnail" : "down_cloth_thumbnail.png",
+    "resourse": [
+      "down_cloth_tex.png",
+      "down_cloth_tex.json",
+      "down_cloth_ske.json",
+      "down_cloth_1_tex.png",
+      "down_cloth_1_tex.json",
+      "down_cloth_1_ske.json"
+    ]
+  },
+  "1030033": {
+    "path": "http://10.8.8.8/cosplay/closet/1030033",
+    "thumbnail" : "down_cloth_thumbnail.png",
+    "resourse": [
+      "down_cloth_tex.png",
+      "down_cloth_tex.json",
+      "down_cloth_ske.json",
+      "down_cloth_1_tex.png",
+      "down_cloth_1_tex.json",
+      "down_cloth_1_ske.json"
+    ]
+  },
+  "1020035": {
+    "path": "http://10.8.8.8/cosplay/closet/1020035",
+    "thumbnail" : "up_cloth_thumbnail.png",
+    "resourse": [
+      "up_cloth_tex.png",
+      "up_cloth_tex.json",
+      "up_cloth_ske.json",
+      "up_cloth_1_tex.png",
+      "up_cloth_1_tex.json",
+      "up_cloth_1_ske.json"
+    ]
+  },
+  "1020034": {
+    "path": "http://10.8.8.8/cosplay/closet/1020034",
+    "thumbnail" : "up_cloth_thumbnail.png",
+    "resourse": [
+      "up_cloth_tex.png",
+      "up_cloth_tex.json",
+      "up_cloth_ske.json",
+      "up_cloth_1_tex.png",
+      "up_cloth_1_tex.json",
+      "up_cloth_1_ske.json"
+    ]
+  },
+  "1020033": {
+    "path": "http://10.8.8.8/cosplay/closet/1020033",
+    "thumbnail" : "up_cloth_thumbnail.png",
+    "resourse": [
+      "up_cloth_tex.png",
+      "up_cloth_tex.json",
+      "up_cloth_ske.json",
+      "up_cloth_1_tex.png",
+      "up_cloth_1_tex.json",
+      "up_cloth_1_ske.json"
+    ]
+  },
+  "1020032": {
+    "path": "http://10.8.8.8/cosplay/closet/1020032",
+    "thumbnail" : "up_cloth_thumbnail.png",
+    "resourse": [
+      "up_cloth_tex.png",
+      "up_cloth_tex.json",
+      "up_cloth_ske.json",
+      "up_cloth_1_tex.png",
+      "up_cloth_1_tex.json",
+      "up_cloth_1_ske.json"
+    ]
+  },
+  "1010024": {
+    "path": "http://10.8.8.8/cosplay/closet/1010024",
+    "thumbnail" : "head_cloth_thumbnail.png",
+    "resourse": [
+      "head_cloth_tex.png",
+      "head_cloth_tex.json",
+      "head_cloth_ske.json",
+      "head_cloth_1_tex.png",
+      "head_cloth_1_tex.json",
+      "head_cloth_1_ske.json"
+    ]
+  },
+  "1010023": {
+    "path": "http://10.8.8.8/cosplay/closet/1010023",
+    "thumbnail" : "head_cloth_thumbnail.png",
+    "resourse": [
+      "head_cloth_tex.png",
+      "head_cloth_tex.json",
+      "head_cloth_ske.json",
+      "head_cloth_1_tex.png",
+      "head_cloth_1_tex.json",
+      "head_cloth_1_ske.json"
+    ]
+  },
+  "1010022": {
+    "path": "http://10.8.8.8/cosplay/closet/1010022",
+    "thumbnail" : "head_cloth_thumbnail.png",
+    "resourse": [
+      "head_cloth_tex.png",
+      "head_cloth_tex.json",
+      "head_cloth_ske.json",
+      "head_cloth_1_tex.png",
+      "head_cloth_1_tex.json",
+      "head_cloth_1_ske.json"
+    ]
+  },
+  "1010021": {
+    "path": "http://10.8.8.8/cosplay/closet/1010021",
+    "thumbnail" : "head_cloth_thumbnail.png",
+    "resourse": [
+      "head_cloth_tex.png",
+      "head_cloth_tex.json",
+      "head_cloth_ske.json",
+      "head_cloth_1_tex.png",
+      "head_cloth_1_tex.json",
+      "head_cloth_1_ske.json"
+    ]
+  }
+}
